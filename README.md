@@ -6,3 +6,5 @@
 * Mechanism to prepare a default basket offered by shopkeeper.
 * Mechanism to prepare a flower basket with customer's choice of size.
 * Mechanism to prepare a flower basket with customer's choice of size and number of flowers.
+
+###Exercise 2 - Design a Class 
